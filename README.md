@@ -8,6 +8,7 @@ Sign up and sign in to Github
 - Create a new repository
 
 Install Git
+- from https://git-scm.com/download/win - download and install the 64 bit version for windows
 - Create a local directory e.g. tutorialGitHub
 - open git bash in folder
 - git init
