@@ -77,4 +77,5 @@ https://www.youtube.com/watch?v=nhNq2kIvi9s
 
 1. [Getting started with Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 2. [Cheatsheet for markdown syntax](https://www.markdownguide.org/cheat-sheet/)
+3. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
 
