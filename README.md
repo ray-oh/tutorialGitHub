@@ -1,13 +1,13 @@
 # tutorialGitHub
 
-## Useful links:
+## Git and Github
 
 1. [Getting started with Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-3. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
-4. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
-5. [Using Git with VScode - youtube](https://www.youtube.com/watch?v=i_23KUAEtUM)
-6. [Learn Github in 20 Minutes - youtube](https://www.youtube.com/watch?v=nhNq2kIvi9s)
-7. [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka - youtube](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2570s) (1 hr 44 min)
+2. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
+3. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
+4. [Using Git with VScode - youtube](https://www.youtube.com/watch?v=i_23KUAEtUM)
+5. [Learn Github in 20 Minutes - youtube](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+6. [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka - youtube](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2570s) (1 hr 44 min)
 
 Sign up and sign in to Github
 - Create a new repository
@@ -99,3 +99,6 @@ Git Fork vs Clone
   - In short, you can think of a CLA as somewhat of a “reverse open source license”. Whereas open source licenses are a copyright grant for users to use the project, a contributor license agreement, at its core, is the right for the project to incorporate a contributor’s code. Contributors may also be required to attest that they have the right to submit the code, or the CLA may include an explicit patent grant. Some CLAs go so far as to actually assign the developers copyright to the project.
   - Unlike licenses, however, contributor license agreements, or CLAs, are not standardized, meaning if you’re a contributor, you’ll have to read each CLA to determine what legal rights you’re giving away, before contributing (and hope you can parse what’s often dense legalese if you’re not yourself a lawyer).
 
+## Other useful links
+
+- [Getting Started with Visual Studio Code](https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
