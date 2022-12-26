@@ -1,4 +1,5 @@
 # tutorialGitHub
+Tutorial on how to use Git, Github and VS Code for collaborative development
 
 ## Git and Github
 
