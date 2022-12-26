@@ -1,5 +1,18 @@
 # tutorialGitHub
 
+## Useful links:
+
+Learn Github in 20 Minutes
+https://www.youtube.com/watch?v=nhNq2kIvi9s
+
+1. [Getting started with Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+2. [Cheatsheet for markdown syntax](https://www.markdownguide.org/cheat-sheet/)
+3. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
+4. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
+5. [Using Git with VScode](https://www.youtube.com/watch?v=i_23KUAEtUM)
+
+
+
 What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka
 https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2570s
 (1 hr 44 min)
@@ -72,14 +85,6 @@ Rollback / revert to previous commits/versions
   - git checkout <first 8 of the hexa decimal digits of the commit hash> <name of file to revert>
   
 
-Learn Github in 20 Minutes
-https://www.youtube.com/watch?v=nhNq2kIvi9s
-
-1. [Getting started with Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-2. [Cheatsheet for markdown syntax](https://www.markdownguide.org/cheat-sheet/)
-3. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
-4. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
-5. [Using Git with VScode](https://www.youtube.com/watch?v=i_23KUAEtUM)
 
 Git Fork vs Clone
 
