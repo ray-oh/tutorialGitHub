@@ -82,6 +82,13 @@ Git Fork vs Clone
 
 ![image](https://user-images.githubusercontent.com/115925194/209470556-3f73efc0-5574-4b97-a14e-3e1ba031567f.png)
 
+
+## Advance Git Commands
+
+- [Git Rebase & Squash in VS Code using GitLens Supercharge - youtube](https://www.youtube.com/watch?v=3o_01F04bZ4)
+- [Pull Requests in VS Code - youtube](https://www.youtube.com/watch?v=LdSwWxVzUpo)
+
+
 ## Markdown
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -101,5 +108,11 @@ Git Fork vs Clone
 
 ## Other useful links
 
-- [Getting Started with Visual Studio Code - youtube](https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
-- [Get started with Jupyter Notebooks in less than 4 minutes - youtube](https://www.youtube.com/watch?v=h1sAzPojKMg)
+- Using VS Code Editor
+  - [Getting Started with Visual Studio Code - youtube](https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
+  - [vscode web editor](https://code.visualstudio.com/docs/editor/vscode-web)
+    - https://vscode.dev
+
+- Using Jupyter Notebooks with VS Code
+  - [Get started with Jupyter Notebooks in less than 4 minutes - youtube](https://www.youtube.com/watch?v=h1sAzPojKMg)
+  - [Jupyter Notebooks in VS Code Walkthrough - youtbue](https://www.youtube.com/watch?v=DA6ZAHBPF1U)
