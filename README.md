@@ -83,3 +83,8 @@ Git Fork vs Clone
 
 ![image](https://user-images.githubusercontent.com/115925194/209470556-3f73efc0-5574-4b97-a14e-3e1ba031567f.png)
 
+
+## Licensing
+
+- [Licensing a repo in github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
