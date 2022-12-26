@@ -3,7 +3,6 @@
 ## Useful links:
 
 1. [Getting started with Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-2. [Cheatsheet for markdown syntax](https://www.markdownguide.org/cheat-sheet/)
 3. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
 4. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
 5. [Using Git with VScode - youtube](https://www.youtube.com/watch?v=i_23KUAEtUM)
@@ -83,8 +82,20 @@ Git Fork vs Clone
 
 ![image](https://user-images.githubusercontent.com/115925194/209470556-3f73efc0-5574-4b97-a14e-3e1ba031567f.png)
 
+## Markdown
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Cheatsheet for markdown syntax](https://www.markdownguide.org/cheat-sheet/)
 
 ## Licensing
 
 - [Licensing a repo in github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+  - You're under no obligation to choose a license. However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work.
+  - Most people place their license text in a file named LICENSE.txt (or LICENSE.md or LICENSE.rst) in the root of the repository
+  - Some projects include information about their license in their README. For example, a project's README may include a note saying "This project is licensed under the terms of the MIT license."
+- [Opensource legal guide](https://opensource.guide/legal/)
+  - Making your GitHub project public is not the same as licensing your project. Public projects are covered by GitHub’s Terms of Service, which allows others to view and fork your project, but your work otherwise comes with no permissions.  If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so.
+- [Contributor License Agreement](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/)
+  - In short, you can think of a CLA as somewhat of a “reverse open source license”. Whereas open source licenses are a copyright grant for users to use the project, a contributor license agreement, at its core, is the right for the project to incorporate a contributor’s code. Contributors may also be required to attest that they have the right to submit the code, or the CLA may include an explicit patent grant. Some CLAs go so far as to actually assign the developers copyright to the project.
+  - Unlike licenses, however, contributor license agreements, or CLAs, are not standardized, meaning if you’re a contributor, you’ll have to read each CLA to determine what legal rights you’re giving away, before contributing (and hope you can parse what’s often dense legalese if you’re not yourself a lawyer).
 
