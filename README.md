@@ -119,6 +119,7 @@ Git Fork vs Clone
   - BSD3 - prohibits others from using the name of the project or its contributors to promote derived products without written consent
   - Apache 2.0 - allows doing all the things with the software including commercial use but it strictly prohibits the use of the software’s name/trademark/logo
   - MIT - do whatever you want (commercially/non-commercially) but don’t blame me if anything goes wrong
+- [Github - how to add license file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 
 ## Other useful links
 
