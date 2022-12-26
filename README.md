@@ -113,6 +113,12 @@ Git Fork vs Clone
 - [Contributor License Agreement](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/)
   - In short, you can think of a CLA as somewhat of a “reverse open source license”. Whereas open source licenses are a copyright grant for users to use the project, a contributor license agreement, at its core, is the right for the project to incorporate a contributor’s code. Contributors may also be required to attest that they have the right to submit the code, or the CLA may include an explicit patent grant. Some CLAs go so far as to actually assign the developers copyright to the project.
   - Unlike licenses, however, contributor license agreements, or CLAs, are not standardized, meaning if you’re a contributor, you’ll have to read each CLA to determine what legal rights you’re giving away, before contributing (and hope you can parse what’s often dense legalese if you’re not yourself a lawyer).
+- [Which open source license to choose](https://dev.to/krtirtho/choosing-open-source-license-wisely-1m3p)
+  - from most to least restrictive
+  - BSD4 - “Do whatever you want but keep License unchanged/compatible & have to give me my credits”
+  - BSD3 - prohibits others from using the name of the project or its contributors to promote derived products without written consent
+  - Apache 2.0 - allows doing all the things with the software including commercial use but it strictly prohibits the use of the software’s name/trademark/logo
+  - MIT - do whatever you want (commercially/non-commercially) but don’t blame me if anything goes wrong
 
 ## Other useful links
 
