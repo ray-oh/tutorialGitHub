@@ -8,6 +8,9 @@ Tutorial on how to use Git, Github and VS Code for collaborative development
 3. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
 4. [Using Git with VScode - youtube](https://www.youtube.com/watch?v=i_23KUAEtUM)
 5. [Learn Github in 20 Minutes - youtube](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+  - Collaborating on a open source project
+  - Fork the main repo to your own repo, create feature or topic branches, test and if stable, propose a pull request to incorporate back to the main repo.
+  - Branching - long running branches and topic branches https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
 6. [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka - youtube](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2570s) (1 hr 44 min)
 
 Sign up and sign in to Github
@@ -88,7 +91,6 @@ Git Fork vs Clone
 
 - [Git Rebase & Squash in VS Code using GitLens Supercharge - youtube](https://www.youtube.com/watch?v=3o_01F04bZ4)
 - [Pull Requests in VS Code - youtube](https://www.youtube.com/watch?v=LdSwWxVzUpo)
-
 
 ## Markdown
 
