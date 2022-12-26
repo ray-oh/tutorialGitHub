@@ -5,6 +5,11 @@ Tutorial on how to use Git, Github and VS Code for collaborative development
 
 1. [Getting started with Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 2. [Github quick start - hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
+  - [Github pricing](https://github.com/pricing)
+    - unlimited public/private repo
+    - 2000 CI/CD minutes/month for private repo.  Free for public repo.
+      - [GITHUB ACTIONS & CI/CD IN 3 MINS - youtube](https://www.youtube.com/watch?v=KwGMYJ6nZD8)
+    - 500MB of package storage for private.  Free for public.
 3. [Git fork vs clone](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-fork-command-example-tutorial#:~:text=A%20Git%20fork%20is%20nothing,contribute%20to%20the%20code%20base.)
 4. [Using Git with VScode - youtube](https://www.youtube.com/watch?v=i_23KUAEtUM)
 5. [Learn Github in 20 Minutes - youtube](https://www.youtube.com/watch?v=nhNq2kIvi9s)
