@@ -101,4 +101,5 @@ Git Fork vs Clone
 
 ## Other useful links
 
-- [Getting Started with Visual Studio Code](https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
+- [Getting Started with Visual Studio Code - youtube](https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
+- [Get started with Jupyter Notebooks in less than 4 minutes - youtube](https://www.youtube.com/watch?v=h1sAzPojKMg)
