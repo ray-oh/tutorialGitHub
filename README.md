@@ -131,3 +131,32 @@ Git Fork vs Clone
 - Using Jupyter Notebooks with VS Code
   - [Get started with Jupyter Notebooks in less than 4 minutes - youtube](https://www.youtube.com/watch?v=h1sAzPojKMg)
   - [Jupyter Notebooks in VS Code Walkthrough - youtbue](https://www.youtube.com/watch?v=DA6ZAHBPF1U)
+
+
+## Clone git repository
+
+```sh
+    $ git clone "https://github.com/ray-oh/tutorialGitHub"
+```
+
+You can run and edit the content or contribute to them using [Gitpod.io](https://www.gitpod.io/), a free online development environment, with a single click.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/TheAlgorithms/Jupyter)
+
+## Contributing New Content
+	
+* Make your pull requests to be **specific** and **focused**. Instead of contributing "several content" all at once contribute them all one by one separately (i.e. one pull request for "VS Code new link", another one for "Jupyter Notebook link" and so on).
+
+* Every new content must have:
+	* **Source link** with comments and readable namings
+	* **Background** being explained in README.md along with the content
+	
+If you're adding new **files** they need to be saved in the `/data` folder. The size of the file should not be greater than `30Mb`.
+
+## Contributing
+
+Before removing any bug, or adding new contributions please do the following: **[Check Contribution Guidelines Before Contribution](Contributing.md)** and also please read **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**.
+
+## License
+
+Licensed under the [BSD 3-Clause License](LICENSE) 
