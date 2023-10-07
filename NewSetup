@@ -1,0 +1,12 @@
+# Setting up new PC with development for python package
+
+Install python
+- choose specific version from github link ... do not use microsoft store which only allows latest version of python
+- install python 3.10.9 for optimus
+
+Install vs code from microsoft store
+Setup vs code
+- install python extensions support
+- install git for source control
+
+
