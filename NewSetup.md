@@ -10,5 +10,6 @@ Setup vs code
 - install git for source control
 ![vscode source control setup](https://github.com/ray-oh/tutorialGitHub/assets/115925194/1ef5932f-cdfd-4c40-8d7c-301377eee98f)
 ![Download git and install](https://github.com/ray-oh/tutorialGitHub/assets/115925194/f0071744-d465-4388-a5de-91a26467f3af)
+![Newly Setup VS code with cloned repo](https://github.com/ray-oh/tutorialGitHub/assets/115925194/82cfb9ac-d907-43fa-ba26-dfefc5d01bd8)
 
 
