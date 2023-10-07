@@ -8,6 +8,7 @@ Install vs code from microsoft store
 Setup vs code
 - install python extensions support
 - install git for source control
-![image](https://github.com/ray-oh/tutorialGitHub/assets/115925194/1ef5932f-cdfd-4c40-8d7c-301377eee98f)
+![vscode source control setup](https://github.com/ray-oh/tutorialGitHub/assets/115925194/1ef5932f-cdfd-4c40-8d7c-301377eee98f)
+![Download git and install](https://github.com/ray-oh/tutorialGitHub/assets/115925194/f0071744-d465-4388-a5de-91a26467f3af)
 
 
