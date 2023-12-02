@@ -14,6 +14,7 @@ Tutorial on how to use Git, Github and VS Code for collaborative development
 4. [Using Git with VScode - youtube](https://www.youtube.com/watch?v=i_23KUAEtUM)
 5. [Learn Github in 20 Minutes - youtube](https://www.youtube.com/watch?v=nhNq2kIvi9s)
   - Collaborating on a open source project
+  - https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
   - Fork the main repo to your own repo, create feature or topic branches, test and if stable, propose a pull request to incorporate back to the main repo.
   - Branching - long running branches and topic branches https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
 6. [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka - youtube](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2570s) (1 hr 44 min)
