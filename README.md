@@ -132,6 +132,8 @@ Git Fork vs Clone
   - [Get started with Jupyter Notebooks in less than 4 minutes - youtube](https://www.youtube.com/watch?v=h1sAzPojKMg)
   - [Jupyter Notebooks in VS Code Walkthrough - youtbue](https://www.youtube.com/watch?v=DA6ZAHBPF1U)
 
+- 2 factor authentication required for Github use
+  - How to configure - [using microsoft authenticator app](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) 
 
 ## Clone git repository
 
