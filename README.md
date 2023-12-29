@@ -135,6 +135,10 @@ Git Fork vs Clone
 - 2 factor authentication required for Github use
   - How to configure - [using microsoft authenticator app](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) 
 
+- Using projects - Kanban boards, roadmap etc.
+  - [documentation from github on planning and tracking with projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+
+
 ## Clone git repository
 
 ```sh
